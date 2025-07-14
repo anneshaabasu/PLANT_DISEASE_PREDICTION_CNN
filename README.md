@@ -10,6 +10,9 @@ This project leverages the power of Convolutional Neural Networks (CNNs) for acc
 ✨ Features:
 
 🔸Image upload interface for live prediction
+<br>
 🔸Pretrained CNN model for high accuracy
+<br>
 🔸Streamlit-based responsive web app
+<br>
 🔸Modular and easy-to-extend code structure
